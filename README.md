@@ -36,4 +36,4 @@ Here I collect my **bug reports**, **test cases**, and **testing notes**.
 ## 📬 Contacts
 - **Name:** Alina Kucherenko  
 - **Email:** alina.kucherenko7991@gmail.com
-- **LinkedIn:** [[ссылка, если есть]](https://www.linkedin.com/in/alina-kucherenko)
+- **LinkedIn:** [[Tap here]](https://www.linkedin.com/in/alina-kucherenko)
