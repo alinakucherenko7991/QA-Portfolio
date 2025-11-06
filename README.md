@@ -18,6 +18,9 @@ Here I collect my **bug reports**, **test cases**, and **testing notes**.
 |----|--------|-------|------|
 | TC-001 | Login form validation | Authentication | [View case](./test-cases/TC-001-create-post.md) |
 | TC-002 | Delete an existing post | Authentication | [View case](./test-cases/TC-002-delete-post.md) |
+| TC-003 | Edit Profile | Authentication | [View case](./test-cases/TC-003-editprofile.md) |
+| TC-004 | Login Form Validation | Authentication | [View case](./test-cases/TC-004-login-form-validation.md) |
+| TC-005 | Upload Photo to a New Post | Authentication | [View case](./test-cases/TC-005-upload-photo-to-a-new-post.md) |
 
 ---
 
