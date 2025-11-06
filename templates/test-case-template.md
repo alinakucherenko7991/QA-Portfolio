@@ -1,27 +1,44 @@
 # ✅ Test Case Template
 
-**ID:**  
+**Test Case ID:**  
 **Title:**  
-**Area:**  
-**Priority:**  
-**Severity:**  
-**Type:** (Functional, UI, Regression, Smoke, etc.)  
+**Requirement ID (if exists):**  
+**Module / Area:**  
+**Type:** (Functional, UI, Usability, Regression, Smoke, Negative, etc.)  
+**Priority:** (High / Medium / Low)  
+**Severity:** (Blocker / Critical / Major / Medium / Low)  
+
 **Preconditions:**  
+- User is logged in / logged out  
+- Required permissions enabled  
+- Test data prepared
+
 **Environment:**  
+- Device:  
+- OS version:  
+- App version / Browser:  
+- Network:
 
 ---
 
-## ✅ Steps:
-1.  
-2.  
-3.  
+## ✅ Test Steps:
+| Step | Action | Expected Result |
+|------|---------|------------------|
+| 1 |  |  |
+| 2 |  |  |
+| 3 |  |  |
 
 ---
 
-## ✅ Expected Result:
-(Describe expected behavior)
+## ✅ Postconditions:
+-  
 
 ---
 
 ## ✅ Actual Result:
 TBD
+
+---
+
+## ✅ Status:
+- Not executed / Passed / Failed / Blocked / Skipped
