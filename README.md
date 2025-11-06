@@ -21,7 +21,7 @@ Here I collect my **bug reports**, **test cases**, and **testing notes**.
 
 ---
 
-## ✅ Checklists
+## 📝 Checklists
 | ID | Title | Area | Link |
 |----|--------|-------|------|
 | CL-001 | Create a new post | Posting | [View checklist](./checklists/CL-001-post-creation.md) |
