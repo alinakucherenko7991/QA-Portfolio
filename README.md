@@ -17,6 +17,7 @@ Here I collect my **bug reports**, **test cases**, and **testing notes**.
 | ID | Title | Area | Link |
 |----|--------|-------|------|
 | TC-001 | Login form validation | Authentication | [View case](./test-cases/TC-001-create-post.md) |
+| TC-002 | Delete an existing post | Authentication | [View case](./test-cases/TC-002-delete-post.md) |
 
 ---
 
