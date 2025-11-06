@@ -1,26 +1,25 @@
 # 🧪 QA Portfolio — Alina
 
 Welcome to my QA portfolio!  
-Here I collect my **bug reports**, **test cases**, and **testing notes**.
+Here I collect my **bug reports**, **test cases**, and **testing documentation**.
 
 ---
 
 ## 🐞 Bug Reports
 | ID | Title | App / Site | Severity | Link |
 |----|--------|-------------|-----------|------|
-| 001 | Video lesson not playing (Error 153) | English Galaxy | Medium | [View report](./bug-reports/bug-001.md) |
-
+| BR-001 | Video lesson not playing (Error 153) | English Galaxy | Medium | [View report](./bug-reports/bug-001.md) |
 
 ---
 
 ## 🧩 Test Cases
 | ID | Title | Area | Link |
 |----|--------|-------|------|
-| TC-001 | Login form validation | Authentication | [View case](./test-cases/TC-001-create-post.md) |
-| TC-002 | Delete an existing post | Authentication | [View case](./test-cases/TC-002-delete-post.md) |
-| TC-003 | Edit Profile | Authentication | [View case](./test-cases/TC-003-editprofile.md) |
-| TC-004 | Login Form Validation | Authentication | [View case](./test-cases/TC-004-login-form-validation.md) |
-| TC-005 | Upload Photo to a New Post | Authentication | [View case](./test-cases/TC-005-upload-photo-to-a-new-post.md) |
+| TC-001 | Create a new post | Posting | [View case](./test-cases/TC-001-create-post.md) |
+| TC-002 | Delete an existing post | Posting | [View case](./test-cases/TC-002-delete-post.md) |
+| TC-003 | Edit profile | Profile | [View case](./test-cases/TC-003-editprofile.md) |
+| TC-004 | Login form validation | Authentication | [View case](./test-cases/TC-004-login-form-validation.md) |
+| TC-005 | Upload photo to a new post | Media / Posting | [View case](./test-cases/TC-005-upload-photo-to-a-new-post.md) |
 
 ---
 
@@ -35,11 +34,13 @@ Here I collect my **bug reports**, **test cases**, and **testing notes**.
 
 ## 🔬 Beta Testing — Threads (via TestFlight)
 
-**Role:** Beta tester (iOS, TestFlight)  
-**App:** Threads (pre-release build via TestFlight)  
-**Activities:** Participated in pre-release testing—used the app in real scenarios, reported functional/UI bugs, submitted feedback and crash logs to developers, and validated key user flows (onboarding, posting, media upload, feed interactions).  
-**Deliverables:** Bug reports, testing notes, screenshots.  
-**Notes:** Experience demonstrates practical knowledge of TestFlight workflow and beta feedback submission.
+**Role:** Beta tester (TestFlight, iOS)  
+**App:** Threads (pre-release build)  
+
+**Activities:**  
+Performed real-world usage testing, reported UI/functional issues, submitted feedback through TestFlight, reproduced crashes, and validated core flows including onboarding, posting, media upload, and feed interactions.
+
+**Deliverables:** Bug reports, test notes, screenshots, crash feedback.  
 
 [See detailed notes](./beta-testing/threads.md)
 
@@ -47,5 +48,5 @@ Here I collect my **bug reports**, **test cases**, and **testing notes**.
 
 ## 📬 Contacts
 - **Name:** Alina Kucherenko  
-- **Email:** alina.kucherenko7991@gmail.com
-- **LinkedIn:** [[Tap here]](https://www.linkedin.com/in/alina-kucherenko)
+- **Email:** alina.kucherenko7991@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/alina-kucherenko
