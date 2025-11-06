@@ -28,7 +28,7 @@ Here I collect my **bug reports**, **test cases**, and **testing notes**.
 **Deliverables:** Bug reports, testing notes, screenshots.  
 **Notes:** Experience demonstrates practical knowledge of TestFlight workflow and beta feedback submission.
 
-(See detailed notes: `beta-testing/threads/README.md`)
+.[See detailed notes](./beta-testing/threads.md`)
 
 ---
 
