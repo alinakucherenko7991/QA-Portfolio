@@ -9,6 +9,9 @@ Here I collect my **bug reports**, **test cases**, and **testing documentation**
 | ID | Title | App / Site | Severity | Link |
 |----|--------|-------------|-----------|------|
 | BR-001 | Video lesson not playing (Error 153) | English Galaxy | Medium | [View report](./bug-reports/bug-001.md) |
+| BR-002 | Images fail to load in the feed | Threads | Medium | [View report](./bug-reports/bug-002.md) |
+| BR-003 | Like counter does not update after liking a post | Threads | Low | [View report](./bug-reports/bug-003.md) |
+| BR-004 | Keyboard responds with delay in the post creation field | Threads | Medium | [View report](./bug-reports/bug-004.md) |
 
 ---
 
