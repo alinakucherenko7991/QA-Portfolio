@@ -35,6 +35,17 @@ Here I collect my **bug reports**, **test cases**, and **testing documentation**
 
 ---
 
+## 📑 Templates
+Reusable templates for bug reports, test cases, and checklists.
+
+| Type | Description | Link |
+|------|-------------|------|
+| Bug Report Template | Standard structure for reporting issues | [Open](./templates/bug-report-template.md) |
+| Test Case Template | Standardized format for creating test cases | [Open](./templates/test-case-template.md) |
+| Checklist Template | Clean template for creating QA checklists | [Open](./templates/checklist-template.md) |
+
+---
+
 ## 🔬 Beta Testing — Threads (via TestFlight)
 
 **Role:** Beta tester (TestFlight, iOS)  
