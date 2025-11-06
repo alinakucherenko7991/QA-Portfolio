@@ -16,7 +16,7 @@ Here I collect my **bug reports**, **test cases**, and **testing notes**.
 ## 🧩 Test Cases
 | ID | Title | Area | Link |
 |----|--------|-------|------|
-| TC-001 |
+| TC-001 | Login form validation | Authentication | [View case](./test-cases/TC-001-create-post.md) |
 
 ---
 
