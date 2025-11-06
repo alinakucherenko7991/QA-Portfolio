@@ -2,11 +2,18 @@
 
 **ID:**  
 **Title:**  
-**App / Site:**  
-**Severity:**  
-**Priority:**  
-**Environment:** (Device, OS, App version / Browser)
+**Project / App:**  
+**Module / Area:**  
+**Severity:** (Blocker / Critical / Major / Medium / Low)  
+**Priority:** (High / Medium / Low)  
+**Environment:**  
+- Device:  
+- OS version:  
+- App version / Browser:  
+- Network:
 
+**Preconditions:**  
+-  
 ---
 
 ## ✅ Steps to Reproduce:
@@ -17,7 +24,7 @@
 ---
 
 ## ✅ Expected Result:
-(Describe what should happen)
+(Describe the correct, expected behavior)
 
 ---
 
@@ -26,14 +33,20 @@
 
 ---
 
+## ✅ Reproducibility:
+- (100%, 80%, random, etc.)
+
+---
+
 ## ✅ Additional Information:
-- Logs:
-- Network:
-- Reproducibility (%):
+- Logs:  
+- Console output:  
+- API response / Status codes:  
 - Notes:
 
 ---
 
 ## 📎 Attachments:
-- Screenshot:
-- Video:
+- Screenshots:  
+- Videos:  
+- Files:  
