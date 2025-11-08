@@ -33,9 +33,9 @@ Here you will find my **bug reports**, **test cases**, **checklists**, and **QA 
 ## 📝 Checklists
 | ID | Title | Area | Status | Link |
 |----|--------|------|--------|------|
-| CL-001 | Create a new post | Posting | Ready | [View checklist](./checklists/CL-001-post-creation.md) |
-| CL-002 | Edit profile | Profile | Ready | [View checklist](./checklists/CL-002-profile-edit.md) |
-| CL-003 | Basic feed interactions | Feed | Ready | [View checklist](./checklists/CL-003-feed-basic.md) |
+| CL-001 | Create a new post | Posting | Ready | [View checklist](./checklists/cl-001.md) |
+| CL-002 | Edit profile | Profile | Ready | [View checklist](./checklists/cl-002.md) |
+| CL-003 | Basic feed interactions | Feed | Ready | [View checklist](./checklists/cl-003.md) |
 
 > **Note:** Checklists are designed to validate app flows, UI elements, and core functionalities efficiently.
 
