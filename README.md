@@ -1,60 +1,66 @@
 # 🧪 QA Portfolio — Alina
 
 Welcome to my QA portfolio!  
-Here I collect my **bug reports**, **test cases**, and **testing documentation**.
+Here you will find my **bug reports**, **test cases**, **checklists**, and **QA documentation templates**.
 
 ---
 
 ## 🐞 Bug Reports
-| ID | Title | App / Site | Severity | Link |
-|----|--------|-------------|-----------|------|
-| BR-001 | Video lesson not playing (Error 153) | English Galaxy | Medium | [View report](./bug-reports/bug-001.md) |
-| BR-002 | Images fail to load in the feed | Threads | Medium | [View report](./bug-reports/bug-002.md) |
-| BR-003 | Like counter does not update after liking a post | Threads | Low | [View report](./bug-reports/bug-003.md) |
-| BR-004 | Keyboard responds with delay in the post creation field | Threads | Medium | [View report](./bug-reports/bug-004.md) |
+| ID | Title | App / Site | Severity | Status | Link |
+|----|--------|------------|---------|--------|------|
+| BR-001 | Video lesson not playing (Error 153) | English Galaxy | Medium | Open | [View report](./bug-reports/BR-001-video-not-playing.md) |
+| BR-002 | Images fail to load in the feed | Threads | Medium | Open | [View report](./bug-reports/BR-002-images-fail.md) |
+| BR-003 | Like counter does not update after liking a post | Threads | Low | Open | [View report](./bug-reports/BR-003-like-counter.md) |
+| BR-004 | Keyboard responds with delay in post creation field | Threads | Medium | Open | [View report](./bug-reports/BR-004-keyboard-lag.md) |
+
+> **Note:** Bug reports include detailed steps to reproduce, expected vs actual behavior, reproducibility, and attachments.
 
 ---
 
 ## 🧩 Test Cases
-| ID | Title | Area | Link |
-|----|--------|-------|------|
-| TC-001 | Create a new post | Posting | [View case](./test-cases/TC-001-create-post.md) |
-| TC-002 | Delete an existing post | Posting | [View case](./test-cases/TC-002-delete-post.md) |
-| TC-003 | Edit profile | Profile | [View case](./test-cases/TC-003-editprofile.md) |
-| TC-004 | Login form validation | Authentication | [View case](./test-cases/TC-004-login-form-validation.md) |
-| TC-005 | Upload photo to a new post | Media / Posting | [View case](./test-cases/TC-005-upload-photo-to-a-new-post.md) |
+| ID | Title | Area | Status | Link |
+|----|--------|------|--------|------|
+| TC-001 | Create a new post | Posting | Ready | [View case](./test-cases/TC-001-create-post.md) |
+| TC-002 | Delete an existing post | Posting | Ready | [View case](./test-cases/TC-002-delete-post.md) |
+| TC-003 | Edit profile | Profile | Ready | [View case](./test-cases/TC-003-edit-profile.md) |
+| TC-004 | Login form validation | Authentication | Ready | [View case](./test-cases/TC-004-login-form-validation.md) |
+| TC-005 | Upload photo to a new post | Media / Posting | Ready | [View case](./test-cases/TC-005-upload-photo.md) |
+
+> **Note:** Test cases cover functional, UI, and negative scenarios for Threads and English Galaxy apps.
 
 ---
 
 ## 📝 Checklists
-| ID | Title | Area | Link |
-|----|--------|-------|------|
-| CL-001 | Create a new post | Posting | [View checklist](./checklists/CL-001-post-creation.md) |
-| CL-002 | Edit profile | Profile | [View checklist](./checklists/CL-002-profile-edit.md) |
-| CL-003 | Basic feed interactions | Feed | [View checklist](./checklists/CL-003-feed-basic.md) |
+| ID | Title | Area | Status | Link |
+|----|--------|------|--------|------|
+| CL-001 | Create a new post | Posting | Ready | [View checklist](./checklists/CL-001-post-creation.md) |
+| CL-002 | Edit profile | Profile | Ready | [View checklist](./checklists/CL-002-profile-edit.md) |
+| CL-003 | Basic feed interactions | Feed | Ready | [View checklist](./checklists/CL-003-feed-basic.md) |
+
+> **Note:** Checklists are designed to validate app flows, UI elements, and core functionalities efficiently.
 
 ---
 
 ## 📑 Templates
-Reusable templates for bug reports, test cases, and checklists.
+Reusable templates for QA documentation in Markdown format:
 
 | Type | Description | Link |
 |------|-------------|------|
 | Bug Report Template | Standard structure for reporting issues | [Open](./templates/bug-report-template.md) |
 | Test Case Template | Standardized format for creating test cases | [Open](./templates/test-case-template.md) |
-| Checklist Template | Clean template for creating QA checklists | [Open](./templates/checklist-template.md) |
+| Checklist Template | Clean template for QA checklists | [Open](./templates/checklist-template.md) |
 
 ---
 
 ## 🔬 Beta Testing — Threads (via TestFlight)
 
-**Role:** Beta tester (TestFlight, iOS)  
+**Role:** Beta tester (iOS, TestFlight)  
 **App:** Threads (pre-release build)  
 
 **Activities:**  
-Performed real-world usage testing, reported UI/functional issues, submitted feedback through TestFlight, reproduced crashes, and validated core flows including onboarding, posting, media upload, and feed interactions.
+Performed hands-on testing of core features, including onboarding, posting, media upload, feed interactions, and profile editing. Reported UI/functional issues, reproduced crashes, and submitted detailed feedback through TestFlight.
 
-**Deliverables:** Bug reports, test notes, screenshots, crash feedback.  
+**Deliverables:** Bug reports, test notes, screenshots, and crash logs.
 
 [See detailed notes](./beta-testing/threads.md)
 
@@ -63,4 +69,4 @@ Performed real-world usage testing, reported UI/functional issues, submitted fee
 ## 📬 Contacts
 - **Name:** Alina Kucherenko  
 - **Email:** alina.kucherenko7991@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/alina-kucherenko
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/alina-kucherenko)
