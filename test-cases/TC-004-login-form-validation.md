@@ -12,10 +12,10 @@
 - App installed  
 
 **Environment:**  
-- Device: iOS / Android  
-- OS version:  
-- App version:  
-- Network: Wi-Fi or Mobile Data
+- Device: iOS 
+- OS version:  18.6.2
+- App version:  Threads 405.1
+- Network: Wi-Fi
 
 ---
 
