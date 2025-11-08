@@ -14,8 +14,8 @@
 - App is launched and user is on the Home Feed screen  
 
 **Environment:**  
-- Device: iPhone (TestFlight build)  
-- OS version: iOS  
+- Device: iPhone XS (TestFlight build)  
+- OS version: iOS 18.6.2
 - App version / Browser: Threads (TestFlight)  
 - Network: Wi-Fi or Mobile Data
 
