@@ -1,27 +1,46 @@
-# TC-003: Edit Profile
+# ✅ Test Case
 
-**Area:** Profile  
+**Test Case ID:** TC-003  
+**Title:** Edit Profile  
+**Requirement ID (if exists):**  
+**Module / Area:** Profile  
+**Type:** Functional  
 **Priority:** Medium  
 **Severity:** Major  
-**Test Type:** Functional  
-**Platform:** iOS / Android  
+
 **Preconditions:**  
 - User is logged in  
 - Profile page is accessible  
 
----
-
-## ✅ Steps:
-1. Open the app  
-2. Go to the Profile tab  
-3. Tap “Edit Profile”  
-4. Enter a new bio text  
-5. Change profile photo  
-6. Tap “Save”
+**Environment:**  
+- Device: iOS / Android  
+- OS version:  
+- App version:  
+- Network: Wi-Fi or Mobile Data
 
 ---
 
-## ✅ Expected Result:
-Profile updates successfully.  
-New photo and bio appear in the profile.  
-No errors occur.
+## ✅ Test Steps
+
+| Step | Action | Expected Result |
+|------|---------|------------------|
+| 1 | Open the app | App launches successfully |
+| 2 | Go to the Profile tab | Profile page loads |
+| 3 | Tap “Edit Profile” | Edit Profile screen opens |
+| 4 | Enter new bio text | Bio field updates |
+| 5 | Change profile photo | New photo preview appears |
+| 6 | Tap “Save” | Changes are saved |
+
+---
+
+## ✅ Expected Result
+
+- Profile updates successfully  
+- New profile photo and bio appear correctly  
+- No errors occur  
+
+---
+
+## ✅ Postconditions
+
+- Updated profile information is saved and visible
